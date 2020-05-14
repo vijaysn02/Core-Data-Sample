@@ -119,4 +119,4 @@ There are two important section of this handler. (i) Reading and Writing
 ```
 
 
-### Check out my Post about Core Data : [iOS - Core Data Sample](https://vijaysn.com/2020/04/23/ios-av-player/)
+### Check out my Post about Core Data : [iOS - Core Data Sample](https://vijaysn.com/mobile/ios/ios-core-data-i)
