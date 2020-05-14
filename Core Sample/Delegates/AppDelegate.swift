@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Core Sample
 //
-//  Created by TPFLAP146 on 14/05/20.
+//
 //  Copyright © 2020 vijay. All rights reserved.
 //
 
