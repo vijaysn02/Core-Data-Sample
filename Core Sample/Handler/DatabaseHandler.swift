@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Sportrush Ambulance
+//
 //
 //  Created by TPFLAP146 on 22/02/20.
 //  Copyright © 2020 spotrush. All rights reserved.
@@ -56,7 +56,7 @@ class DatabaseHandler {
         }
         
         // 2 - Creating Context for Peristant Container
-        let managedContext =
+        let context =
           appDelegate.persistentContainer.viewContext
         
         //3 - Fetch Request for the Entity
@@ -65,7 +65,7 @@ class DatabaseHandler {
         
         //4 - Read Groceries from Entity
         do {
-          groceries = try managedContext.fetch(fetchRequest)
+          groceries = try context.fetch(fetchRequest)
         } catch let error as NSError {
           print("Could not fetch. \(error), \(error.userInfo)")
         }

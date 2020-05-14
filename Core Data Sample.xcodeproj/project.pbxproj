@@ -155,9 +155,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		50107FFF246CE375007235B5 /* Core Sample */ = {
+		50107FFF246CE375007235B5 /* Core Data Sample */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 50108017246CE379007235B5 /* Build configuration list for PBXNativeTarget "Core Sample" */;
+			buildConfigurationList = 50108017246CE379007235B5 /* Build configuration list for PBXNativeTarget "Core Data Sample" */;
 			buildPhases = (
 				50107FFC246CE375007235B5 /* Sources */,
 				50107FFD246CE375007235B5 /* Frameworks */,
@@ -167,7 +167,7 @@
 			);
 			dependencies = (
 			);
-			name = "Core Sample";
+			name = "Core Data Sample";
 			productName = "Core Sample";
 			productReference = 50108000246CE375007235B5 /* Core Data Sample.app */;
 			productType = "com.apple.product-type.application";
@@ -187,7 +187,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 50107FFB246CE375007235B5 /* Build configuration list for PBXProject "Core Sample" */;
+			buildConfigurationList = 50107FFB246CE375007235B5 /* Build configuration list for PBXProject "Core Data Sample" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -200,7 +200,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				50107FFF246CE375007235B5 /* Core Sample */,
+				50107FFF246CE375007235B5 /* Core Data Sample */,
 			);
 		};
 /* End PBXProject section */
@@ -403,7 +403,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		50107FFB246CE375007235B5 /* Build configuration list for PBXProject "Core Sample" */ = {
+		50107FFB246CE375007235B5 /* Build configuration list for PBXProject "Core Data Sample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				50108015246CE379007235B5 /* Debug */,
@@ -412,7 +412,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		50108017246CE379007235B5 /* Build configuration list for PBXNativeTarget "Core Sample" */ = {
+		50108017246CE379007235B5 /* Build configuration list for PBXNativeTarget "Core Data Sample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				50108018246CE379007235B5 /* Debug */,
